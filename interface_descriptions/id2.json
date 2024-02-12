@@ -1,0 +1,13 @@
+{
+	"clientId": "car_status_provider",
+	"connectorId": "dex_connector_B",
+	"paradigm": "CS",
+	"protocol": "COAP",
+	"qos": "non_confirmable",
+	"hasDataType": "charging_station_location",
+	"tonoff": 0.7,
+	"lifetime": 1000,
+	"latency": 300,
+	"reliability": 0.9,
+	"successRate": 0.85
+}

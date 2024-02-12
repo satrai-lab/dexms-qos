@@ -1,0 +1,13 @@
+{
+	"clientId": "driver_app_1",
+	"connectorId": "dex_connector_A",
+	"paradigm": "PS",
+	"protocol": "MQTT",
+	"qos": "QoS_1",
+	"hasDataType": "battery_charge_level",
+	"tonoff": 0.8,
+	"lifetime": 3000,
+	"latency": 100,
+	"reliability": 0.8,
+	"successRate": 0.9
+}

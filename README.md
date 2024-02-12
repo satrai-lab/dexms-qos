@@ -4,6 +4,8 @@ This repository contains the necessary code for the automated synthesis and comp
 
 ## Getting Started
 This repository contains the following directories:
+
+`interface-descriptions`: contains interface descriptions examples.
 `perfmp`: contains the code needed for generating end-to-end *Queueing Models* for representing and evaluating interconnections of clients using heterogeneous protocols.
 `system_tuning`: contains scripts for tuning the system by analyzing the Cumulative Density Function (CDF) of response times distributions and average success rates.
 
