@@ -5,9 +5,11 @@ This repository contains the necessary code for the automated synthesis and comp
 ## Getting Started
 This repository contains the following directories:
 
-`interface-descriptions`: contains interface descriptions examples.
-`perfmp`: contains the code needed for generating end-to-end *Queueing Models* for representing and evaluating interconnections of clients using heterogeneous protocols.
-`system_tuning`: contains scripts for tuning the system by analyzing the Cumulative Density Function (CDF) of response times distributions and average success rates.
+- `interface-descriptions`: contains interface descriptions examples.
+
+- `perfmp`: contains the code needed for generating end-to-end *Queueing Models* for representing and evaluating interconnections of clients using heterogeneous protocols.
+
+- `system_tuning`: contains scripts for tuning the system by analyzing the Cumulative Density Function (CDF) of response times distributions and average success rates.
 
 ### Installation Requirements
 We assume that the host machine is running [Java 17](https://www.oracle.com/fr/java/technologies/downloads/) and using [Eclipse](https://www.eclipse.org/downloads/) for running the artifact. You also need to download the [JavaFX SDK 17](https://gluonhq.com/products/javafx/) and the following JAR files:
